@@ -1,0 +1,16 @@
+# Do not edit manually
+*.tsx linguist-detectable
+* text=auto eol=lf 
+
+*.jpeg binary
+
+*.png binary
+
+public/*.html linguist-vendored
+*.html linguist-vendored
+yarn.lock linguist-generated
+
+*.min.js linguist-generated
+*.ico binary
+*.woff binary
+# eof 7534cd78
